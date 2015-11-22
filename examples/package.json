@@ -1,0 +1,17 @@
+{
+  "name": "generators-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "performance-benchmark/benchmark.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "benchmark": "1.0.0",
+    "co": "4.1.0",
+    "microtime": "1.1.0"
+  },
+  "dependencies": {
+    "thunks": "^4.0.1"
+  }
+}
